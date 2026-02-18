@@ -1,0 +1,3 @@
+ID: 1; Name: Ahnaf Shakil; Incident type: Malware Problem; Severity: Medium; Status: Open; Description: I was talking in phone suddenly it wasn't working. Then I have seen some doubtful files.
+ID: 13; Name: Tom Cruise; Incident type: Man in the middle attack; Severity: High; Status: Open; Description: He clicked a link from email and his computer hacked.
+ID: 9; Name: Chris; Incident type: Man in the middle ttack; Severity: High; Status: Open; Description: abc d
