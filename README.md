@@ -1,4 +1,4 @@
-# Cyber Incident Management System (Java)
+# Cyber Incident Management System (Java Project)
 
 ## Overview
 This is a Java based Cyber Security Incident Management System developed as a university project.  
