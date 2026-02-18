@@ -1,7 +1,7 @@
 # Cyber Incident Management System (Java)
 
 ## Overview
-This is a Java-based Cyber Security Incident Management System developed as a university project.  
+This is a Java based Cyber Security Incident Management System developed as a university project.  
 The system allows users to log, manage, and store cyber security incidents.
 
 It supports:
